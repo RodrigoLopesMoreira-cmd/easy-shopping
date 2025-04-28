@@ -6,4 +6,6 @@
   <li>CSS</li>
 </ul>
 <h2>Responsividade para dispositivos mobile</h2>
-
+<img src="https://github.com/RodrigoLopesMoreira-cmd/easy-shopping/blob/main/img/mobile.PNG?raw=true" alt="mobile"/>
+<h2>Desktop</h2>
+<img src="https://github.com/RodrigoLopesMoreira-cmd/easy-shopping/blob/main/img/desktop.PNG?raw=true" alt="desktop"/>
